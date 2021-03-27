@@ -1,10 +1,10 @@
 {
   "excludeScenes": [],
   "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
   },
   "packageName": "org.cocos2d.helloworld",
   "startScene": "1e6ef5e5-17fe-409e-90ee-0f1b4a8c8030",
@@ -23,7 +23,7 @@
   "fb-instant-games": {},
   "android": {
     "REMOTE_SERVER_ROOT": "",
-    "packageName": "org.cocos2d.demo"
+    "packageName": "org.cocos2d.escapeWarPic"
   },
   "ios": {
     "REMOTE_SERVER_ROOT": "",
